@@ -11,3 +11,6 @@ Reflection: I currently have minimal knowledge of HTML. I've vibe-coded React wi
 
 # Day 1: practicing basic HTML elements
 I created a blurb on Stray Kids, one of my favorite music groups. I utilized anchors and different types of text formatting to customize the page.
+
+# Day 2: creating an About Me page
+I created an About Me page. I utilzed classes and ids to give different the same properties to different items. I also used them to make a mini navigation bar.
